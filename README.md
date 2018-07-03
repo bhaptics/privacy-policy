@@ -13,7 +13,7 @@ Personal information items to be collected by the Company are as follows:
 The Company may collect the information directly provided by the users.
 
 | Title of service        | Items to be collected           |
-| ------------- |:-------------:|
+| ------------- |-------------|
 | Internet membership service     | • e-mail address, password,  <br> • Facebook ID number (when using facebook login)| 
 | Online payment service | • Name, address, and telephone number of a recipient: to verify the destination for delivery of goods and free gifts  <br> • Bank account information and credit card information: to provide payment services   |
 
@@ -21,7 +21,7 @@ The Company may collect the information directly provided by the users.
 Besides of information directly provided by the users, the Company may collect information in the course that the users use the service provided by the Company.
 
 | Title of service         | Items to be collected           |
-| ------------------------ |:-------------:|
+| ------------------------ |-------------|
 | Equipment information    | • Equipment identifier, operation system, hardware version, equipment set-up        |
 | Log information          | • Log data, use time, search word input by users, internet protocol address, cookie and web beacon       |
 | Location information     | • Information of device location including specific geographical location detected through GPS, Bluetooth or Wi-Fi (limited to the region permissible under the laws)        |
@@ -60,7 +60,7 @@ The Company may collect collective and impersonal information through 'cookies' 
 The items of cookies to be collected by the Company and the purpose of such collection are as follows:
 
 | Category        | Reasons for using cookies and additional information           |
-| ------------- |:-------------:|
+| ------------- |-------------|
 | Strictly necessary cookies	| This cookie is a kind of indispensable cookie for the users to use the functions of website of the Company. Unless the users allow this cookie, the services such as shopping cart or electronic bill payment cannot be provided. This cookie does not collect any information which may be used for marketing or memorizing the sites visited by the users<br> (Examples of necessary cookies) <br> ∘ Memorize the information entered in an order form while searching other pages during web browser session<br> ∘ For the page of products and check-out, memorize ordered services<br> ∘ Check whether login is made on website<br> ∘ Check whether the users are connected with correct services of the website of the Company while the Company changes the way of operating its website<br> ∘ Connect the users with certain application or server of the services
 | Performance cookies |	This cookie collects information how the users use the website of the Company such as the information of the pages which are visited by the users most. This data helps the Company to optimize its website so that the users can search that website more comfortably. This cookie does not collect any information of the users. Any and all the information collected by this cookie will be processed collectively and the anonymity will be guaranteed.<br> (Examples of performance cookies)<br> ∘ Web analysis: provide statistical data on the ways of using website<br> ∘ Advertisement response fee: check the effect of advertisement of the Company<br> ∘ Tracing affiliated companies; one of visitors of the Company provides anonymously feedback to the affiliated companies<br> ∘ Management of error: measure an error which may occur so as to give a help for improving website<br> ∘ Design testing: test other design of the website of Company
 | Functionality cookies |	This cookie is used for memorizing the set-ups so that the Company provides services and improves visit of users. Any information collected by this cookie does not identify the users individually.<br> (Examples of functionality cookies)<br> ∘ Memorize set-ups applied such as layout, text size, basic set-up and colors<br> ∘ Memorize when the customer respond to a survey conducted by the Company
